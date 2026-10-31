@@ -1,0 +1,23 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE 配置
+.vscode/
+.idea/
+
+# 运行日志
+*.log
+
+# Gurobi 许可证文件
+gurobi.lic
+*.lic
+
+# 如果运行过程生成了临时输出文件夹，也一并忽略
+output/
